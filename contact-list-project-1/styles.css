@@ -1,0 +1,36 @@
+/* Estilos sofisticados */
+.futuristic-title {
+    font-size: 32px;
+    color: #03a9f4;
+    margin-bottom: 20px;
+}
+
+.box-with-shadow {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.gradient-background {
+    background: linear-gradient(to bottom, #007BFF, #0056b3);
+}
+
+.custom-border {
+    border: 2px solid #03a9f4;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 18px;
+    background-color: transparent;
+    color: #ffffff;
+}
+
+.button-with-hover {
+    background-color: #03a9f4;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.button-with-hover:hover {
+    background-color: #0282b0;
+}
